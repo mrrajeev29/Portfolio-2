@@ -9,9 +9,9 @@ const Intro=()=>{
             <span className="name">I'm Sourya Biswas</span>
         </h3>
         <h1 className="design2">
-            <span>I am a Mechanical Engineer</span><br/>
-            <span> with expertise in Electrical Vehicle</span>
-            <span> and experience in Paint shop Process and activities.</span>
+            <span>I am a Mechanical Engineer with</span><br/>
+            <span>expertise in Electrical Vehicle and</span>
+            <span>experience in Paint shop Process and activities.</span>
         </h1>
         <br/>
         <div className="infobtn">
