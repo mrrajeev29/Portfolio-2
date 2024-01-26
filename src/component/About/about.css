@@ -1,0 +1,34 @@
+.about h1{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    font-family: monospace;
+}
+.about p{
+    font-size:2rem;
+    text-align:center;
+    color:palegreen;
+
+}
+.divcoms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.divImg{
+    height: 20rem;
+    width: 40rem;
+    margin: 0.5rem;
+}
+@media screen and (max-width:800px) {
+
+    .divImg{
+        width: 26rem;
+        height: 20rem;
+    }
+    .about p{
+        font-size: 1.5rem;
+    }
+}

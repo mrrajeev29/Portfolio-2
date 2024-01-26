@@ -1,0 +1,49 @@
+.divPros{
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+display: flex;
+}
+.divPro{
+    height: 15rem;
+    width: 40rem;
+    background-color:aquamarine;
+    margin: 0.25rem 0.5rem;
+    border-radius: 0.2rem;
+
+}
+.title{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 3.75rem;
+}
+
+.desc{
+    color: palegreen;
+    font-size: 2rem;
+    text-align: center;
+}
+.pName{
+    background-color:aquamarine;
+    text-align: center;
+    color: #004242;
+}
+.pdesc{
+    background-color: aquamarine;
+    text-align: center;
+    color: #004242;
+    font-size: x-large;
+}
+@media screen and (max-width:720px) {
+    .title{
+        font-size: 2.5rem;
+    }
+    .divPro{
+        width: 26rem;
+        height: 15rem;
+    }
+    .desc{
+        font-size: 1.5rem;
+    }
+}
