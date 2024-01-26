@@ -11,7 +11,7 @@ const Intro=()=>{
         <h1 className="design2">
             <span>I am a Mechanical Engineer</span><br/>
             <span> with expertise in Electrical Vehicle</span>
-            <span> in creating visual and user-friendly websites.</span>
+            <span> and experience in Paint shop Process and activities.</span>
         </h1>
         <br/>
         <div className="infobtn">
